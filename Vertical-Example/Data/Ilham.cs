@@ -1,0 +1,3 @@
+class {
+    string suka =  "hhaaha";
+}
